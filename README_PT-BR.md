@@ -24,7 +24,7 @@ Lembre-se que você pode ler toda a documentação de cada projeto no arquivo RE
 
 <a href="https://github.com/fnxln/dds"> <img src="https://raw.githubusercontent.com/fnxln/dds/main/assets/logo.png" width="300" height="150"> </a>
 
-## Descricao:
+## Descrição:
 
 My own dotfiles system that i use in my own machine using NixOS
 
