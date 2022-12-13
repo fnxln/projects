@@ -2,7 +2,7 @@
 
 # Languages
 
-<a href="https://github.com/fnxln/projects/blob/main/readme_pt-br.md">![](https://img.shields.io/badge/%f0%9f%87%a7%f0%9f%87%b7-portugues-green)</a>
+<a href="https://github.com/fnxln/projects/blob/main/README_PT-BR.md">![](https://img.shields.io/badge/%f0%9f%87%a7%f0%9f%87%b7-portugues-green)</a>
 <a href="https://github.com/fnxln/projects">![](https://img.shields.io/badge/%f0%9f%87%ac%f0%9f%87%a7-english-blue)</a>
 
 # What is this repo about?
